@@ -36,4 +36,4 @@ void loop()
 }
 ```
 
-link do projeto no ThinkCad: https://www.tinkercad.com/things/hzocOrJCmw9/editel
+link do projeto no ThinkCad: https://www.tinkercad.com/things/hzocOrJCmw9/editel?sharecode=pObMyAbBVAGTEPRcEjZUASs4Tm7yjZGV9wHoEZKJ66s
